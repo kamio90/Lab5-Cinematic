@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fe2475b-1814-42db-b2e7-677f6591e0d0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Best.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Best.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayableDirector.playable" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayableDirector.playable" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-    </list>
+    <list default="true" id="3fe2475b-1814-42db-b2e7-677f6591e0d0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610062037234</updated>
       <workItem from="1610062043157" duration="16000" />
+      <workItem from="1610066483265" duration="3000" />
     </task>
     <servers />
   </component>
